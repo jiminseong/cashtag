@@ -1,0 +1,37 @@
+[
+  {
+    "amount": 15000,
+    "date": "2023-06-01",
+    "category": "식비",
+    "groupId": "1",
+    "storeName": "편의점"
+  },
+  {
+    "amount": 30000,
+    "date": "2023-06-01",
+    "category": "교통비",
+    "groupId": "2",
+    "storeName": "택시"
+  },
+  {
+    "amount": 50000,
+    "date": "2023-06-02",
+    "category": "식비",
+    "groupId": "3",
+    "storeName": "식당"
+  },
+  {
+    "amount": 10000,
+    "date": "2023-06-02",
+    "category": "쇼핑",
+    "groupId": "4",
+    "storeName": "옷가게"
+  },
+  {
+    "amount": 25000,
+    "date": "2023-06-03",
+    "category": "여가",
+    "groupId": "5",
+    "storeName": "영화관"
+  }
+]
